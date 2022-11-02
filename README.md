@@ -1,2 +1,3 @@
-# calcolatr
-calcolatr
+-----
+
+### <p align="center">calcolatr</p>
